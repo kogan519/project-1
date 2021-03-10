@@ -13,14 +13,39 @@ h1 {
     height: 400px;
 }
 .top.m {
-    width: 600px;
+    width: 500px;
     margin: 0 auto;
     height: 400px;
     border-left: 1px solid gray;
     border-right: 1px solid gray;
 }
+.s_icon {
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    letter-spacing: -1px;
+    color: white;
+}
+.top_mainmenu {
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 20px;
+    font-size: smaller;
+    letter-spacing: -1px;
+    color: white;
+}
+.top_mainmenu ul {
+    display: inline;
+font-size: smaller;
+letter-spacing: -1px;
+color: white;
 
-.features {
+.top_mainmenu ul li {
+    display: inline;
+}
+.top_footer {
+}
+.top .features {
     background-color: blue;
     height: 150px;
 }
