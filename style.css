@@ -32,7 +32,31 @@ h1 {
     color: white;
     padding-top: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50%;
+    line-height: 150%;
 }
+
+.buttons {
+
+}
+.one {
+    background-color: tomato;
+    color: white;
+    border-width: 0px;
+    border-radius: 2px;
+    font-size: 14%;
+    padding: 5px 15px 5px 15px;
+}
+.two {
+    background-color: #4466c8;
+    color: white;
+    border-width: 0px;
+    border-radius: 2px;
+    font-size: 14%;
+    padding: 5px;
+    padding: 5px 15px 5px 15px;
+}
+
 .s_icon {
     display: inline;
 }
